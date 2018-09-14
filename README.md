@@ -16,9 +16,9 @@ RestDemo is an Spring Boot project.
 
 
 To run angular project:
-npm istall
-ng serve --open
+- npm istall
+- ng serve --open
 
 To run boot project:
-mvn spring-boot:run
+- mvn spring-boot:run
 
