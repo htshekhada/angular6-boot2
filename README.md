@@ -7,7 +7,16 @@ For Angular 6:
 - npm 5.x or greater
 
 For Spring Boot 2:
-JDK 8.X or greater
+- JDK 8.X or greater
+- Maven
 
 sample-app is an Angular project.
 RestDemo is an Spring Boot project.
+
+
+To run angular project:
+ng serve --open
+
+To run boot project:
+mvn spring-boot:run
+
